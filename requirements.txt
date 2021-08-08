@@ -1,0 +1,20 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: win-64
+_anaconda_depends=2020.07=py38_0
+anaconda=custom=py38_1
+anaconda-client=1.7.2=py38_0
+anaconda-project=0.9.1=pyhd3eb1b0_1
+numpy=1.19.2=py38hadc3359_0
+pandas=1.2.3=py38hf11a4ad_0
+pickleshare=0.7.5=py38_1000
+cloudpickle=1.6.0=py_0
+scikit-learn=0.24.2=py38h5d5d464_0
+scipy=1.6.1=py38h14eb087_0
+seaborn=0.11.1=hd8ed1ab_1
+seaborn-base=0.11.1=pyhd8ed1ab_1
+matplotlib=3.3.4=py38haa95532_0
+matplotlib-base=3.3.4=py38h49ac443_0
+catboost=0.26.1=py38haa244fe_0
+shap=0.39.0=py38h60cbd38_0
+tqdm=4.59.0=pyhd3eb1b0_1
